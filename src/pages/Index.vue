@@ -137,10 +137,7 @@
             <div class="mx-auto mb-10 h-48 w-48 rounded-full bg-a-beige" />
             <h4 class="textMedium text-lab-pink">Ryojin</h4>
             <div class="textSmall pt-4">Head Web Developer</div>
-            <AtomIconTwitter
-              link="https://twitter.com/Ryojn6"
-              class="text-lab-pink hover:text-lab-lightpink mt-5"
-            />
+            <AtomIconTwitter link="https://twitter.com/Ryojn6" class="mt-5" />
           </div>
         </AtomAnimate>
       </AtomInner>
@@ -160,20 +157,50 @@
             <span class="font-machina block">is say hey!</span>
           </h2>
           <AtomAnimate class="mt-10 flex w-full items-center space-x-6">
-            <AtomPlainLink to="" class="bg-black px-10 py-3 text-a-beige">
-              Discord
-            </AtomPlainLink>
-            <AtomPlainLink to="#form" class="btn"> Contact Us </AtomPlainLink>
+            <a href="#_" class="group relative inline-block text-lg">
+              <span
+                class="relative z-10 block overflow-hidden rounded-lg border-2 border-gray-900 px-5 py-3 font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out group-hover:text-white"
+              >
+                <span
+                  class="absolute inset-0 h-full w-full rounded-lg bg-gray-50 px-5 py-3"
+                ></span>
+                <span
+                  class="ease absolute left-0 -ml-2 h-48 w-48 origin-top-right -translate-x-full translate-y-12 -rotate-90 bg-gray-900 transition-all duration-300 group-hover:-rotate-180"
+                ></span>
+                <span class="relative">Button Text</span>
+              </span>
+              <span
+                class="absolute bottom-0 right-0 -mb-1 -mr-1 h-12 w-full rounded-lg bg-gray-900 transition-all duration-200 ease-linear group-hover:mb-0 group-hover:mr-0"
+                data-rounded="rounded-lg"
+              ></span>
+            </a>
+            <a href="#_" class="group relative inline-block text-lg">
+              <span
+                class="relative z-10 block overflow-hidden rounded-lg border-2 border-gray-900 px-5 py-3 font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out group-hover:text-white"
+              >
+                <span
+                  class="absolute inset-0 h-full w-full rounded-lg bg-gray-50 px-5 py-3"
+                ></span>
+                <span
+                  class="ease absolute left-0 -ml-2 h-48 w-48 origin-top-right -translate-x-full translate-y-12 -rotate-90 bg-gray-900 transition-all duration-300 group-hover:-rotate-180"
+                ></span>
+                <span class="relative">Button Text</span>
+              </span>
+              <span
+                class="absolute bottom-0 right-0 -mb-1 -mr-1 h-12 w-full rounded-lg bg-gray-900 transition-all duration-200 ease-linear group-hover:mb-0 group-hover:mr-0"
+                data-rounded="rounded-lg"
+              ></span>
+            </a>
           </AtomAnimate>
         </AtomAnimate>
         <div
           v-aos
           class="pin-y-center absolute right-10 h-[70rem] w-[70rem] rounded-full transition-all duration-[2000ms] ease-in-out"
           aos-from="opacity-0 shadow-xl"
-          aos-to="opacity-100 shadow-none  bg-white"
+          aos-to="opacity-100 shadow-none  bg-a-beige"
         >
           <div
-            class="pin-center bg-lab-pink absolute mx-auto h-[35rem] w-[35rem] rounded-full"
+            class="pin-center absolute mx-auto h-[35rem] w-[35rem] rounded-full bg-[#1b1b1b]"
           />
         </div>
       </AtomInner>
