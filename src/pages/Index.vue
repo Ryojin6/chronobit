@@ -84,7 +84,7 @@
     </AtomSection>
     <OrganismTestimonials id="testimonials" class="" />
 
-    <AtomSection tp="large" bp="large" class="bg-lab-navy" id="team">
+    <AtomSection id="team" tp="large" bp="large" class="bg-lab-navy">
       <MoleculeTitle title="Who We Are" class="text-white" />
       <AtomInner class="grid gap-12 md:grid-cols-2 xl:grid-cols-4">
         <AtomAnimate
@@ -153,7 +153,7 @@
           position="left"
         >
           <h2 class="textXLarge relative z-10 font-bold uppercase text-black">
-            All you have to do
+            All you <br />have to do
             <span class="font-machina block">is say hey!</span>
           </h2>
           <AtomAnimate class="mt-10 flex w-full items-center space-x-6">
@@ -163,16 +163,16 @@
               >
                 <span
                   class="absolute inset-0 h-full w-full rounded-lg bg-gray-50 px-5 py-3"
-                ></span>
+                />
                 <span
                   class="ease absolute left-0 -ml-2 h-48 w-48 origin-top-right -translate-x-full translate-y-12 -rotate-90 bg-gray-900 transition-all duration-300 group-hover:-rotate-180"
-                ></span>
+                />
                 <span class="relative">Discord</span>
               </span>
               <span
                 class="absolute bottom-0 right-0 -mb-1 -mr-1 h-12 w-full rounded-lg bg-gray-900 transition-all duration-200 ease-linear group-hover:mb-0 group-hover:mr-0"
                 data-rounded="rounded-lg"
-              ></span>
+              />
             </a>
             <a href="#_" class="group relative inline-block text-lg">
               <span
@@ -180,16 +180,16 @@
               >
                 <span
                   class="absolute inset-0 h-full w-full rounded-lg bg-gray-50 px-5 py-3"
-                ></span>
+                />
                 <span
                   class="ease absolute left-0 -ml-2 h-48 w-48 origin-top-right -translate-x-full translate-y-12 -rotate-90 bg-gray-900 transition-all duration-300 group-hover:-rotate-180"
-                ></span>
+                />
                 <span class="relative">Twitter</span>
               </span>
               <span
                 class="absolute bottom-0 right-0 -mb-1 -mr-1 h-12 w-full rounded-lg bg-gray-900 transition-all duration-200 ease-linear group-hover:mb-0 group-hover:mr-0"
                 data-rounded="rounded-lg"
-              ></span>
+              />
             </a>
           </AtomAnimate>
         </AtomAnimate>

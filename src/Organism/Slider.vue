@@ -2,11 +2,11 @@
   <div class="relative w-full">
     <hooper
       ref="carousel"
-      @slide="updateCarousel"
       class="focus:outline-none h-full"
       :wheel-control="false"
       :infinite-scroll="true"
       :settings="hooperSettings"
+      @slide="updateCarousel"
     >
       <slide> <img src="/1.jpg" class="w-full" alt="" /> </slide>
       <slide> <img src="/2.jpg" class="w-full" alt="" /> </slide>
