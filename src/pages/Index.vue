@@ -19,10 +19,10 @@
             class="font-display text-neutral-950 relative text-3xl font-medium tracking-tight sm:text-4xl"
           >
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Praesentium quas autem aspernatur possimus deserunt. Mollitia
-              iusto pariatur, eum facilis alias officia vero dignissimos, odio
-              eius deserunt reprehenderit recusandae provident fuga.
+              Timeless elegance meets cutting-edge technology at Chrono Bit,
+              where we redefine luxury watch commerce by seamlessly delivering
+              exceptional timepieces worldwide through the power of
+              cryptocurrency. Embrace the future of horology with us.
             </p>
           </blockquote>
           <cite> ShaniMiz </cite>
@@ -37,48 +37,50 @@
       class="bg-lab-navy justify-between text-white md:flex md:space-x-20 xl:space-x-32"
     >
       <div class="md:w-1/3 md:text-left">
-        <MoleculeTitle class="md:text-left" title="Loremipsum anamet" />
+        <MoleculeTitle class="md:text-left" title="At Chrono Bit, " />
+        <p>
+          We're not just selling watches; we're orchestrating moments. Through
+          the precision of luxury timepieces and the innovation of crypto
+          transactions, we're weaving stories that transcend time and embrace
+          the future of effortless sophistication."
+        </p>
       </div>
       <div class="space-y-10 text-center md:w-2/3">
         <AtomAnimate
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="outline">120+</span>
-          <span
-            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
-            >Lorem ipsum, dolor sit amet consectetur
+          <span class="font-machina text-lab-pink text-left text-xl uppercase"
+            >At Chrono Bit, we don't just keep time; we craft experiences. Our
+            commitment to delivering unparalleled luxury watches globally,
+            fueled by the seamless efficiency of crypto payments, ensures that
+            every second is a statement and every transaction is a journey into
+            the extraordinary.
           </span>
         </AtomAnimate>
         <AtomAnimate
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="outline">2m+</span>
-          <span
-            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
-            >Lorem ipsum, dolor sit amet consectetur</span
-          >
-        </AtomAnimate>
-        <AtomAnimate
-          position="right"
-          class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
-        >
-          <span class="outline">300+</span>
-          <span
-            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
-            >Lorem ipsum, dolor sit amet consectetur
+          <span class="font-machina text-lab-pink text-left text-xl uppercase"
+            >At Chrono Bit, we don't just keep time; we craft experiences. Our
+            commitment to delivering unparalleled luxury watches globally,
+            fueled by the seamless efficiency of crypto payments, ensures that
+            every second is a statement and every transaction is a journey into
+            the extraordinary.
           </span>
         </AtomAnimate>
         <AtomAnimate
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="outline">$20m+</span>
-          <span
-            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
-            >Lorem ipsum, dolor sit amet consectetur</span
-          >
+          <span class="font-machina text-lab-pink text-left text-xl uppercase"
+            >At Chrono Bit, we don't just keep time; we craft experiences. Our
+            commitment to delivering unparalleled luxury watches globally,
+            fueled by the seamless efficiency of crypto payments, ensures that
+            every second is a statement and every transaction is a journey into
+            the extraordinary.
+          </span>
         </AtomAnimate>
       </div>
     </AtomSection>
