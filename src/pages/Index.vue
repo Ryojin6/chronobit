@@ -50,37 +50,41 @@
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="font-machina text-lab-pink text-left text-xl uppercase"
-            >At Chrono Bit, we don't just keep time; we craft experiences. Our
-            commitment to delivering unparalleled luxury watches globally,
-            fueled by the seamless efficiency of crypto payments, ensures that
-            every second is a statement and every transaction is a journey into
-            the extraordinary.
+          <span class="outline">600+</span>
+          <span
+            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
+            >So we should be able to put
           </span>
         </AtomAnimate>
         <AtomAnimate
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="font-machina text-lab-pink text-left text-xl uppercase"
-            >At Chrono Bit, we don't just keep time; we craft experiences. Our
-            commitment to delivering unparalleled luxury watches globally,
-            fueled by the seamless efficiency of crypto payments, ensures that
-            every second is a statement and every transaction is a journey into
-            the extraordinary.
+          <span class="outline">2200+</span>
+          <span
+            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
+            >total items sold
           </span>
         </AtomAnimate>
         <AtomAnimate
           position="right"
           class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
         >
-          <span class="font-machina text-lab-pink text-left text-xl uppercase"
-            >At Chrono Bit, we don't just keep time; we craft experiences. Our
-            commitment to delivering unparalleled luxury watches globally,
-            fueled by the seamless efficiency of crypto payments, ensures that
-            every second is a statement and every transaction is a journey into
-            the extraordinary.
+          <span class="outline">100k+</span>
+          <span
+            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
+            >total volume in sales
           </span>
+        </AtomAnimate>
+        <AtomAnimate
+          position="right"
+          class="border-lab-orange flex flex-col justify-center space-y-2 border-b border-opacity-50 pb-6 text-8xl text-white md:flex-row md:justify-start md:space-y-0 xl:pb-10 xl:text-9xl 2xl:text-[10rem]"
+        >
+          <span class="outline">$20k+</span>
+          <span
+            class="font-machina text-lab-pink text-2xl uppercase 2xl:text-3xl"
+            >in total consignment payouts</span
+          >
         </AtomAnimate>
       </div>
     </AtomSection>
