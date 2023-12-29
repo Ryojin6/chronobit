@@ -39,13 +39,33 @@
       <div class="md:w-1/3 md:text-left">
         <MoleculeTitle class="md:text-left" title="At Chrono Bit, " />
         <p>
-          We're not just selling watches; we're orchestrating moments. Through
-          the precision of luxury timepieces and the innovation of crypto
-          transactions, we're weaving stories that transcend time and embrace
-          the future of effortless sophistication."
+          Chrono Bit by ABCustomer is a new way to purchase authentic luxury
+          watches through crypto payments. Focusing on web3 and blockchain
+          technologies, Chrono Bit aims to be the most trusted way to purchase
+          luxury watches worldwide in the coming years. We exclusively accept
+          orders through our discord. Join our community where you will be
+          welcomed with open arms and meet like-minded people with a love for
+          watches and crypto enthusiasts.
         </p>
 
-        <p class="pt-6 text-a-beige">ChronoBit by ABCustomer.</p>
+        <p class="pt-6 text-a-beige">
+          <a
+            href="https://www.ebay.com/str/abcustomer"
+            target="_blank"
+            class="underline"
+            >ChronoBit by ABCustomer.</a
+          >
+        </p>
+        <p class="pt-6">
+          Established in 2020, ABCustomer by Shani Mizrahi is a small business
+          out of Queens NY, dedicated to delivering high-quality products at
+          even better prices. ABCustomer has built a reputation for delivering
+          products worldwide with years of experience in e-commerce. ABCustomer
+          is primarily known for selling on eBay, while we also have a presence
+          on other selling platforms such as Poshmark, Mercari, OfferUp, and
+          more. ABCustomer is ambitious with many goals set out to achieve in
+          the coming years. Chrono Bit is a new avenue by ABCustomer.
+        </p>
       </div>
       <div class="space-y-10 text-center md:w-2/3">
         <AtomAnimate
@@ -137,7 +157,10 @@
             <span class="font-machina block">is say hey!</span>
           </h2>
           <div class="mt-10 flex w-full items-center space-x-6">
-            <a href="#_" class="group relative inline-block text-lg">
+            <a
+              href="https://discord.gg/v5dNZGe6"
+              class="group relative inline-block text-lg"
+            >
               <span
                 class="relative z-10 block overflow-hidden rounded-lg border-2 border-gray-900 px-5 py-3 font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out group-hover:text-white"
               >
@@ -154,7 +177,10 @@
                 data-rounded="rounded-lg"
               />
             </a>
-            <a href="#_" class="group relative inline-block text-lg">
+            <a
+              href="https://twitter.com/ChronoBitNYC"
+              class="group relative inline-block text-lg"
+            >
               <span
                 class="relative z-10 block overflow-hidden rounded-lg border-2 border-gray-900 px-5 py-3 font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out group-hover:text-white"
               >

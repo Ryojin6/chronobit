@@ -7,15 +7,15 @@
       class="custom-transition bottom-6 left-6 flex w-1/3 items-center space-x-4"
     >
       <AtomIconTwitter
-        link="#"
+        link="https://twitter.com/ChronoBitNYC"
         class="w-8 text-a-beige hover:text-black md:block"
       />
       <AtomIconDiscord
-        link="#"
+        link="https://discord.gg/v5dNZGe6"
         class="w-8 text-a-beige hover:text-black md:block"
       />
       <AtomIconLinkedin
-        link="#"
+        link="https://www.linkedin.com/in/shanimizrahi/"
         class="w-8 text-a-beige hover:text-black md:block"
       />
     </div>

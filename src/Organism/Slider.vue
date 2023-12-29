@@ -10,8 +10,8 @@
     >
       <slide> <img src="/1.jpg" class="w-full" alt="" /> </slide>
       <slide> <img src="/2.jpg" class="w-full" alt="" /> </slide>
-      <slide> <img src="/1.jpg" class="w-full" alt="" /> </slide>
-      <slide> <img src="/2.jpg" class="w-full" alt="" /> </slide>
+      <slide> <img src="/3.jpg" class="w-full" alt="" /> </slide>
+      <slide> <img src="/4.jpg" class="w-full" alt="" /> </slide>
     </hooper>
 
     <div
