@@ -69,7 +69,7 @@ export default function main(Vue, { head }) {
     },
     {
       name: 'og:description',
-      content: `Lorem ipsum lorem anmetas`,
+      content: `Timeless elegance meets cutting-edge technology at Chrono Bit`,
     },
     {
       name: 'twitter:card',

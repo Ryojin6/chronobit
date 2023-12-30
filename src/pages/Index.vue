@@ -2,7 +2,7 @@
   <TemplateDefault class="mx-auto overflow-x-hidden" homepage>
     <AtomSection
       bp="large"
-      class="relative flex items-center justify-center text-center font-mono font-bold"
+      class="relative flex items-center justify-center pt-16 text-center font-mono font-bold"
       full-width
     >
       <OrganismSlider />
@@ -122,11 +122,13 @@
           class="shadow-white bg-lab-navy rounded-3xl font-bold text-white shadow-2xl transition-all duration-1000 ease-in-out xl:p-10"
         >
           <div class="flex flex-col items-center py-10 text-center">
-            <div class="mx-auto mb-10 h-48 w-48 rounded-full bg-a-beige" />
+            <div class="mx-auto mb-10">
+              <img src="/shani.jpg" alt="" class="h-48 w-48 rounded-full" />
+            </div>
             <h4 class="textMedium text-lab-pink">Shani</h4>
             <div class="textSmall pt-4">CEO, Co-Founder</div>
             <AtomIconTwitter
-              link="#"
+              link="https://twitter.com/NFTdegen_23"
               class="text-lab-pink hover:text-lab-lightpink mt-5"
             />
           </div>
@@ -137,10 +139,15 @@
           class="shadow-white bg-lab-navy rounded-3xl font-bold text-white shadow-2xl transition-all duration-1000 ease-in-out xl:p-10"
         >
           <div class="flex flex-col items-center py-10 text-center">
-            <div class="mx-auto mb-10 h-48 w-48 rounded-full bg-a-beige" />
+            <div class="mx-auto mb-10">
+              <img src="/ryo.jpg" alt="" class="h-48 w-48 rounded-full" />
+            </div>
             <h4 class="textMedium text-lab-pink">Ryojin</h4>
             <div class="textSmall pt-4">Head Web Developer</div>
-            <AtomIconTwitter link="https://twitter.com/Ryojn6" class="mt-5" />
+            <AtomIconTwitter
+              link="https://twitter.com/ryojindevs"
+              class="mt-5"
+            />
           </div>
         </AtomAnimate>
       </div>
