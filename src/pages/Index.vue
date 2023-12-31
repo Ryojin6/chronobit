@@ -155,9 +155,12 @@
     <AtomSection
       tp="large"
       bp="large"
-      class="bg-lab-pink flex h-screen items-center justify-center overflow-hidden"
+      id="contact"
+      class="bg-lab-pink flex items-center justify-center overflow-hidden"
     >
-      <AtomInner class="relative grid items-center md:grid-cols-2">
+      <div
+        class="relative mx-auto grid max-w-7xl items-center gap-10 md:grid-cols-2"
+      >
         <div class="relative z-10 mx-auto max-w-5xl" position="left">
           <h2 class="textXLarge relative z-10 font-bold uppercase text-a-beige">
             All you <br />have to do
@@ -208,7 +211,7 @@
         </div>
         <div
           v-aos
-          class="h-full w-full max-w-xl rounded-full transition-all duration-[2000ms] ease-in-out"
+          class="mx-auto h-full w-full max-w-lg rounded-full transition-all duration-[2000ms] ease-in-out"
         >
           <svg viewBox="0 0 197.94 257" class="w-full fill-current">
             <g id="PRINT">
@@ -219,7 +222,7 @@
             </g>
           </svg>
         </div>
-      </AtomInner>
+      </div>
     </AtomSection>
   </TemplateDefault>
 </template>

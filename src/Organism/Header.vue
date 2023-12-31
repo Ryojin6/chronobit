@@ -88,18 +88,14 @@
     <nav>
       <ul class="menu flex flex-col items-center justify-center text-center">
         <AtomMenuItem
-          title="Lorem ipsum"
-          anchor="/"
+          title="About"
+          anchor="#about"
           @toggled="toggled = false"
         />
+        <AtomMenuItem title="Team" anchor="#team" @toggled="toggled = false" />
         <AtomMenuItem
-          title="Lorem ipsum"
-          anchor="/"
-          @toggled="toggled = false"
-        />
-        <AtomMenuItem
-          title="Lorem ipsum"
-          anchor="/"
+          title="Contact"
+          anchor="#contact"
           @toggled="toggled = false"
         />
         <AtomMenuItem
