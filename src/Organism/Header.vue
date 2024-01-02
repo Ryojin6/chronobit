@@ -98,11 +98,6 @@
           anchor="#contact"
           @toggled="toggled = false"
         />
-        <AtomMenuItem
-          title="Lorem ipsum"
-          anchor="/"
-          @toggled="toggled = false"
-        />
       </ul>
     </nav>
   </header>
