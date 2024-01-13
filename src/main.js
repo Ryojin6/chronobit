@@ -65,11 +65,11 @@ export default function main(Vue, { head }) {
     },
     {
       name: 'og:site_name',
-      content: 'ChronoBit',
+      content: 'Chronobit',
     },
     {
       name: 'og:description',
-      content: `Timeless elegance meets cutting-edge technology at Chrono Bit`,
+      content: `Timeless elegance meets cutting-edge technology at Chronobit`,
     },
     {
       name: 'twitter:card',

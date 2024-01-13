@@ -19,7 +19,7 @@
             class="font-display text-neutral-950 relative space-y-6 pb-6 text-3xl font-medium tracking-tight"
           >
             <p>
-              Timeless elegance meets cutting-edge technology at Chrono Bit,
+              Timeless elegance meets cutting-edge technology at Chronobit,
               where we redefine luxury watch commerce by seamlessly delivering
               exceptional timepieces worldwide through the power of
               cryptocurrency. Embrace the future of horology with us. At Chrono
@@ -40,7 +40,7 @@
       class="bg-lab-navy justify-between text-white md:flex md:space-x-20 xl:space-x-32"
     >
       <div class="md:w-1/3 md:text-left">
-        <MoleculeTitle class="md:text-left" title="At Chrono Bit, " />
+        <MoleculeTitle class="md:text-left" title="At Chronobit, " />
         <p class="pb-4">
           Committed to leveraging cutting-edge web3 and blockchain technologies,
           we strive to provide a trusted and innovative platform where
@@ -49,7 +49,7 @@
           seamless orders but also fosters a welcoming space for individuals who
           share a profound appreciation for horology and the boundless
           possibilities of the crypto landscape. With transparency,
-          authenticity, and community at our core, Chrono Bit is dedicated to
+          authenticity, and community at our core, Chronobit is dedicated to
           shaping the future of luxury watch acquisitions worldwide.
         </p>
 
