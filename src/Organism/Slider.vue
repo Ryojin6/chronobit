@@ -8,6 +8,7 @@
       :settings="hooperSettings"
       @slide="updateCarousel"
     >
+      <slide> <img src="/5.jpg" class="w-full" alt="" /> </slide>
       <slide> <img src="/1.jpg" class="w-full" alt="" /> </slide>
       <slide> <img src="/2.jpg" class="w-full" alt="" /> </slide>
       <slide> <img src="/3.jpg" class="w-full" alt="" /> </slide>
