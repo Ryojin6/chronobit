@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="mx-auto max-w-6xl border-t-4 border-a-blue pb-6 pt-2 text-current"
-  >
+  <div class="mx-auto max-w-6xl border-t border-a-beige pb-6 pt-2 text-current">
     <button
       :id="`label${_uid}`"
       type="button"
@@ -10,7 +8,7 @@
       :aria-controls="`title${_uid}`"
       @click="show = !show"
     >
-      <h3 class="textLarge pb-6 pt-2 text-left font-title uppercase">
+      <h3 class="pb-6 pt-2 text-left text-2xl uppercase md:text-3xl">
         {{ title }}
       </h3>
       <span class="flex items-center pb-6 pt-2 font-bold">
@@ -23,9 +21,11 @@
       </span>
     </button>
     <transition name="slide-fade">
-      <div v-if="show" class="textSmall px-4 pt-2">
-        {{ description }}
-      </div>
+      <div
+        v-if="show"
+        class="textSmall desc prose px-4 pt-2 !text-white"
+        v-html="description"
+      />
     </transition>
   </div>
 </template>
@@ -49,3 +49,9 @@ export default {
   },
 };
 </script>
+
+<style>
+.prose a {
+  @apply !text-white;
+}
+</style>

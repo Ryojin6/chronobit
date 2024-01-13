@@ -14,18 +14,21 @@
       full-width
     >
       <AtomAnimate>
-        <figure class="mx-auto max-w-4xl">
+        <figure class="mx-auto max-w-6xl">
           <blockquote
-            class="font-display text-neutral-950 relative text-3xl font-medium tracking-tight sm:text-4xl"
+            class="font-display text-neutral-950 relative space-y-6 pb-6 text-3xl font-medium tracking-tight"
           >
             <p>
               Timeless elegance meets cutting-edge technology at Chrono Bit,
               where we redefine luxury watch commerce by seamlessly delivering
               exceptional timepieces worldwide through the power of
-              cryptocurrency. Embrace the future of horology with us.
+              cryptocurrency. Embrace the future of horology with us. At Chrono
+              Bit, our mission is to revolutionize the luxury watch market by
+              seamlessly intertwining the realms of timepieces and
+              cryptocurrency.
             </p>
           </blockquote>
-          <cite> ShaniMiz </cite>
+          <cite> by ABCustomer.</cite>
         </figure>
       </AtomAnimate>
     </AtomSection>
@@ -38,33 +41,37 @@
     >
       <div class="md:w-1/3 md:text-left">
         <MoleculeTitle class="md:text-left" title="At Chrono Bit, " />
-        <p>
-          Chrono Bit by ABCustomer is a new way to purchase authentic luxury
-          watches through crypto payments. Focusing on web3 and blockchain
-          technologies, Chrono Bit aims to be the most trusted way to purchase
-          luxury watches worldwide in the coming years. We exclusively accept
-          orders through our discord. Join our community where you will be
-          welcomed with open arms and meet like-minded people with a love for
-          watches and crypto enthusiasts.
+        <p class="pb-4">
+          Committed to leveraging cutting-edge web3 and blockchain technologies,
+          we strive to provide a trusted and innovative platform where
+          enthusiasts can acquire authentic luxury watches through secure crypto
+          transactions. Our exclusive Discord community not only facilitates
+          seamless orders but also fosters a welcoming space for individuals who
+          share a profound appreciation for horology and the boundless
+          possibilities of the crypto landscape. With transparency,
+          authenticity, and community at our core, Chrono Bit is dedicated to
+          shaping the future of luxury watch acquisitions worldwide.
         </p>
 
-        <p class="pt-6 text-a-beige">
+        <p class="pb-6">
           <a
             href="https://www.ebay.com/str/abcustomer"
             target="_blank"
             class="underline"
-            >ChronoBit by ABCustomer.</a
+            ><cite>ChronoBit by ABCustomer.</cite></a
           >
         </p>
         <p class="pt-6">
-          Established in 2020, ABCustomer by Shani Mizrahi is a small business
-          out of Queens NY, dedicated to delivering high-quality products at
-          even better prices. ABCustomer has built a reputation for delivering
-          products worldwide with years of experience in e-commerce. ABCustomer
-          is primarily known for selling on eBay, while we also have a presence
-          on other selling platforms such as Poshmark, Mercari, OfferUp, and
-          more. ABCustomer is ambitious with many goals set out to achieve in
-          the coming years. Chrono Bit is a new avenue by ABCustomer.
+          Established in 2020, ABCustomer Inc. by Shani Mizrahi is a small
+          business out of Queens NY, dedicated to delivering high-quality
+          products at even better prices. ABCustomer has built a reputation for
+          delivering products worldwide with years of experience in e-commerce.
+          ABCustomer is primarily known for selling on eBay, while we also have
+          a presence on other selling platforms such as Poshmark, Mercari,
+          OfferUp, and more. ABCustomer is ambitious with many goals set out to
+          achieve in the coming years. We welcome anyone to our community with
+          open arms! We exclusively accept orders in our official DISCORD with
+          secure crypto payments. Join today to learn more!
         </p>
       </div>
       <div class="space-y-10 text-center md:w-2/3">
@@ -111,7 +118,13 @@
       </div>
     </AtomSection>
     <OrganismTestimonials id="testimonials" class="" />
-
+    <AtomSection
+      bp="large"
+      id="contact"
+      class="bg-lab-pink flex items-center justify-center overflow-hidden"
+    >
+      <OrganismFAQ />
+    </AtomSection>
     <AtomSection id="team" tp="large" bp="large" class="bg-lab-navy">
       <MoleculeTitle title="Who We Are" class="text-white" />
       <div
@@ -152,6 +165,7 @@
         </AtomAnimate>
       </div>
     </AtomSection>
+
     <AtomSection
       tp="large"
       bp="large"
