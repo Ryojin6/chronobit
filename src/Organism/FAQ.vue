@@ -68,11 +68,7 @@ export default {
           description: `    Chrono Bit is dedicated to promoting decentralization, transparency, and trust within the luxury watch market. By embracing crypto payments and leveraging blockchain technology, we align with the principles of Web3 to redefine the future of luxury retail.
 `,
         },
-        {
-          title: ' How can I become a Chrono Bit affiliate? ',
-          description: `Our program is available for the public to apply although access is not guaranteed. All applications are reviewed before approval into this program. If you are interested in learning more kindly join our discord or review our application HERE for more information. 
-`,
-        },
+
         {
           title: ' How can I become a Chrono Bit affiliate? ',
           description: `Our program is available for the public to apply although access is not guaranteed. All applications are reviewed before approval into this program. If you are interested in learning more kindly join our discord or review our application <a href="https://forms.gle/7c91YmUB4LZcaWSo7" target="_blank">HERE</a> for more information.
