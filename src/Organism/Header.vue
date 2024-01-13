@@ -8,15 +8,15 @@
     >
       <AtomIconTwitter
         link="https://twitter.com/ChronoBitNYC"
-        class="w-8 text-a-beige hover:text-black md:block"
+        class="w-8 text-a-beige hover:text-white md:block"
       />
       <AtomIconDiscord
         link="https://discord.gg/v5dNZGe6"
-        class="w-8 text-a-beige hover:text-black md:block"
+        class="w-8 text-a-beige hover:text-white md:block"
       />
       <AtomIconLinkedin
         link="https://www.linkedin.com/in/shanimizrahi/"
-        class="w-8 text-a-beige hover:text-black md:block"
+        class="w-8 text-a-beige hover:text-white md:block"
       />
     </div>
     <div class="w-1/3">
@@ -93,6 +93,7 @@
           @toggled="toggled = false"
         />
         <AtomMenuItem title="Team" anchor="#team" @toggled="toggled = false" />
+        <AtomMenuItem title="FAQ" anchor="#faq" @toggled="toggled = false" />
         <AtomMenuItem
           title="Contact"
           anchor="#contact"

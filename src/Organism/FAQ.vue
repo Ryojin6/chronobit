@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="faq">
     <MoleculeTitle title="FAQ" class="text-white" />
     <AtomAnimate class="grid w-full grid-cols-2 gap-10">
       <MoleculeAccordionCard

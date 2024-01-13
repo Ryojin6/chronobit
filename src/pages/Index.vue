@@ -140,10 +140,16 @@
             </div>
             <h4 class="textMedium text-lab-pink">Shani</h4>
             <div class="textSmall pt-4">CEO, Co-Founder</div>
-            <AtomIconTwitter
-              link="https://twitter.com/NFTdegen_23"
-              class="text-lab-pink hover:text-lab-lightpink mt-5"
-            />
+            <div class="flex space-x-2 pt-5">
+              <AtomIconTwitter
+                link="https://twitter.com/NFTdegen_23"
+                class="text-a-beige hover:text-white"
+              />
+              <AtomIconLinkedin
+                link="https://www.linkedin.com/in/shanimizrahi/"
+                class="w-8 text-a-beige hover:text-white md:block"
+              />
+            </div>
           </div>
         </AtomAnimate>
 
@@ -159,7 +165,7 @@
             <div class="textSmall pt-4">Head Web Developer</div>
             <AtomIconTwitter
               link="https://twitter.com/ryojindevs"
-              class="mt-5"
+              class="mt-5 text-a-beige hover:text-white"
             />
           </div>
         </AtomAnimate>
