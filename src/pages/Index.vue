@@ -22,10 +22,7 @@
               Timeless elegance meets cutting-edge technology at Chronobit,
               where we redefine luxury watch commerce by seamlessly delivering
               exceptional timepieces worldwide through the power of
-              cryptocurrency. Embrace the future of horology with us. At Chrono
-              Bit, our mission is to revolutionize the luxury watch market by
-              seamlessly intertwining the realms of timepieces and
-              cryptocurrency.
+              cryptocurrency. Embrace the future of horology with us.
             </p>
           </blockquote>
           <cite> by ABCustomer.</cite>
@@ -41,6 +38,10 @@
     >
       <div class="md:w-1/3 md:text-left">
         <MoleculeTitle class="md:text-left" title="At Chronobit, " />
+        <p class="pb-4">
+          Our mission is to revolutionize the luxury watch market by seamlessly
+          intertwining the realms of timepieces and cryptocurrency.
+        </p>
         <p class="pb-4">
           Committed to leveraging cutting-edge web3 and blockchain technologies,
           we strive to provide a trusted and innovative platform where
@@ -69,9 +70,14 @@
           ABCustomer is primarily known for selling on eBay, while we also have
           a presence on other selling platforms such as Poshmark, Mercari,
           OfferUp, and more. ABCustomer is ambitious with many goals set out to
-          achieve in the coming years. We welcome anyone to our community with
-          open arms! We exclusively accept orders in our official DISCORD with
-          secure crypto payments. Join today to learn more!
+          achieve in the coming years.
+        </p>
+        <p class="pt-4">
+          We welcome anyone to our community with open arms! We exclusively
+          accept orders in our official DISCORD with secure crypto payments.
+          <a href="https://discord.gg/v5dNZGe6" target="_blank"
+            >Join today to learn more!</a
+          >
         </p>
       </div>
       <div class="space-y-10 text-center md:w-2/3">
